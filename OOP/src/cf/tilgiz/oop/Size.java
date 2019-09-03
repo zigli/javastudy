@@ -1,4 +1,4 @@
-package cf.tilgiz;
+package cf.tilgiz.oop;
 
 public enum Size {
 
