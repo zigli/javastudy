@@ -1,4 +1,7 @@
 package cf.tilgiz.inheritance;
 
-public class EngineType {
+public enum EngineType {
+
+    PETROL, DIESEL, ELECTRIC
+
 }
