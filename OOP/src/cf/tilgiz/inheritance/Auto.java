@@ -4,14 +4,14 @@ public class Auto {
 
     private String producer;
     private String model;
-    private EngineType engineType;
+    private Engine engine;
     private int currentSpeed;
     protected boolean isRunning;
 
-    public Auto(String producer, String model, EngineType engineType) {
+    public Auto(String producer, String model, Engine engine) {
         this.producer = producer;
         this.model = model;
-        this.engineType = engineType;
+        this.engine = engine;
         System.out.println("Auto was initialized");
     }
 
@@ -40,8 +40,8 @@ public class Auto {
         return model;
     }
 
-    public EngineType getEngineType() {
-        return engineType;
+    public Engine getEngine() {
+        return engine;
     }
 
     public int getCurrentSpeed() {
