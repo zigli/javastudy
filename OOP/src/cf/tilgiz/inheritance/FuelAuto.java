@@ -1,6 +1,6 @@
 package cf.tilgiz.inheritance;
 
-public class FuelAuto extends Auto{
+public abstract class FuelAuto extends Auto{
 
     private int avaliablePetrol;
     private int tankVolume;

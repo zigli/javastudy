@@ -12,7 +12,7 @@ public class ElectricCar extends Auto {
         System.out.println("ElectricCar was initialized");
     }
 
-    public void charge(){
+    private void charge(){
         System.out.println("Battery is charging");
     }
 
@@ -30,6 +30,11 @@ public class ElectricCar extends Auto {
 
     public void setPassengerNumber(int passengerNumber) {
         this.passengerNumber = passengerNumber;
+    }
+
+    @Override
+    public void energize() {
+        charge();
     }
 
     @Override

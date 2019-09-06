@@ -1,6 +1,6 @@
 package cf.tilgiz.inheritance;
 
-public class Auto {
+public abstract class Auto {
 
     private String producer;
     private String model;
@@ -13,6 +13,12 @@ public class Auto {
         this.model = model;
         this.engine = engine;
         System.out.println("Auto was initialized");
+    }
+
+    public abstract void energize();
+
+    public static void doSmth(){
+
     }
 
     public void start() {

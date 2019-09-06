@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Auto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Bus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/FuelAuto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/FuelAuto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/InheritanceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/InheritanceMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Truck.java" afterDir="false" />
     </list>
@@ -27,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/InheritanceMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            <state relative-caret-position="435">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -36,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/Auto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding>
                 <element signature="e#1229#1230#0" expanded="true" />
                 <element signature="e#1277#1278#0" expanded="true" />
@@ -77,8 +78,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/ElectricCar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+            <state relative-caret-position="390">
+              <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+              <folding>
+                <element signature="e#931#932#0" expanded="true" />
+                <element signature="e#955#956#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,13 +91,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/Bus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" selection-start-line="26" selection-start-column="4" selection-end-line="39" />
+            <state relative-caret-position="915">
+              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
               <folding>
                 <element signature="e#1113#1114#0" expanded="true" />
                 <element signature="e#1151#1152#0" expanded="true" />
                 <element signature="e#1210#1211#0" expanded="true" />
                 <element signature="e#1264#1265#0" expanded="true" />
+                <element signature="e#1676#1677#0" expanded="true" />
+                <element signature="e#1736#1737#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,8 +108,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/Truck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="40" column="5" selection-start-line="28" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/FuelAuto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="30">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -142,14 +153,14 @@
         <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/EngineType.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Car.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/PetrolAuto.java" />
-        <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/FuelAuto.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Engine.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Piston.java" />
-        <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Auto.java" />
-        <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Bus.java" />
+        <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/FuelAuto.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Truck.java" />
+        <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Bus.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/ElectricCar.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/InheritanceMain.java" />
+        <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Auto.java" />
       </list>
     </option>
   </component>
@@ -285,11 +296,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ContructorsMain" />
-      <item itemvalue="Application.InheritanceMain" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Practice (1)" />
       <item itemvalue="Application.Practice" />
+      <item itemvalue="Application.ContructorsMain" />
+      <item itemvalue="Application.InheritanceMain" />
     </list>
     <recent_temporary>
       <list>
@@ -347,23 +358,30 @@
       <option name="project" value="LOCAL" />
       <updated>1567603413104</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Полиморфизм">
+      <created>1567752850204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567752850204</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977778" visible="true" weight="0.20309168" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49751243" visible="true" weight="0.20309168" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.50222224" side_tool="true" visible="true" weight="0.20309168" />
+      <window_info id="Structure" order="5" sideWeight="0.50248754" side_tool="true" visible="true" weight="0.20309168" />
       <window_info id="Favorites" order="6" sideWeight="0.50082916" side_tool="true" weight="0.20095949" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,7 +407,8 @@
     <MESSAGE value="Наследование" />
     <MESSAGE value="Наследование1" />
     <MESSAGE value="Композиция - Composition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Композиция - Composition" />
+    <MESSAGE value="Полиморфизм" />
+    <option name="LAST_COMMIT_MESSAGE" value="Полиморфизм" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Boolean.java">
@@ -473,13 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/InheritanceMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/Engine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -504,44 +516,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/ElectricCar.java">
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/Truck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+        <state relative-caret-position="300">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" selection-start-line="26" selection-start-column="4" selection-end-line="39" />
+        <state relative-caret-position="915">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
           <folding>
             <element signature="e#1113#1114#0" expanded="true" />
             <element signature="e#1151#1152#0" expanded="true" />
             <element signature="e#1210#1211#0" expanded="true" />
             <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1676#1677#0" expanded="true" />
+            <element signature="e#1736#1737#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/Truck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="40" column="5" selection-start-line="28" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/FuelAuto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/ElectricCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="36" column="11" lean-forward="true" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/InheritanceMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/inheritance/Auto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="255">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <element signature="e#1229#1230#0" expanded="true" />
             <element signature="e#1277#1278#0" expanded="true" />

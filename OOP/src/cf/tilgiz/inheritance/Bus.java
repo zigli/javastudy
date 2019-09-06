@@ -58,4 +58,9 @@ public class Bus extends FuelAuto {
         passengerNumber = 0;
         System.out.println("Passengers drop off");
     }
+
+    @Override
+    public void energize() {
+        fuelUp(getTankVolume()-getAvaliablePetrol());
+    }
 }
