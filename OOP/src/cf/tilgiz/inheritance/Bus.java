@@ -24,6 +24,20 @@ public class Bus extends FuelAuto {
         System.out.println("Adding Diesel");
     }
 
+    @Override
+    public void start() {
+        isRunning = true;
+        setCurrentSpeed(10);
+        System.out.println("Bus is starting");
+    }
+
+    @Override
+    public void stop() {
+        isRunning = false;
+        setCurrentSpeed(0);
+        System.out.println("Bus is stopped");
+    }
+
     public int getPassengerNumber() {
         return passengerNumber;
     }
