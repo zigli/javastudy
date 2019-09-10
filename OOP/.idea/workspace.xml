@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8696cfc-fe64-4fac-8c21-378408556183" name="Default Changelist" comment="Внутренний (Inner) класс.&#10;Внутренний класс имеет доступ ко всем (не статическийм) полям и методам класса &quot;обёртки&quot;(Enclosing class).">
-      <change afterPath="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/CellPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Main.java" afterDir="false" />
+    <list default="true" id="f8696cfc-fe64-4fac-8c21-378408556183" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Display.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="120">
+              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -51,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Display.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            <state relative-caret-position="225">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding>
                 <element signature="e#167#168#0" expanded="true" />
                 <element signature="e#226#227#0" expanded="true" />
@@ -345,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568015303299</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Внутренний (Inner) класс.&#10;Внутренний класс имеет доступ ко всем (не статическийм) полям и методам класса &quot;обёртки&quot;(Enclosing class).&#10;Внутренний класс не static.&#10;https://javatalks.ru/posts/240222&#10;Внутренние классы хороши, когда у вас внутренний класс неразрывно связан с внешним. Когда существование инстанса внутреннего класса, без конкретного инстанса внешнего - не имеет смысла.&#10;Не делайте внутренний класс там, где достаточно вложенного! Частая проблема у новичков - шлёпать внутренние классы только потому, что они забыли поставить &quot;static&quot;. Каждый инстанс внутреннего класса связан с внешним ссылкой, а значит пока существует хоть один инстанс внутреннего - будет существовать инстанс внешнего. Про проблемы сборки мусора вы наверное потом узнаете.">
+      <created>1568096254133</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568096254133</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -421,7 +426,8 @@
     <MESSAGE value="Абстрактные классы." />
     <MESSAGE value="Интерфейсы 1&#10;Интерфейсы не могут иметь конструкторы.&#10;Все поля в интерфейсе final static, и должны быть инициализированы( так как отсутствуют конструкторы)&#10;&#10;Все методы в интерфейсе public abstract.&#10;&#10;Мы не может создать объект интерфейса  &#10;Deliverable deliverable = new Deliverable();&#10;Но возможно создать массив объектов из Интерфейса.&#10;Deliverable[] deliverable = new Deliverable[4];" />
     <MESSAGE value="Интерфейсы 2&#10;Функциональный интерфейс - это интерфейс у которого только один абстрактный метод.&#10;Функциональный интерфейс используется в лямбда выражениях.&#10;Пример функционального интерфейса интерфейс Runnable&#10;@FunctionalInterface&#10;public interface Runnable {&#10;    public abstract void run();&#10;}&#10;&#10;В интерфейсе,  помимо абстрактных, возможны статические и дефолтные методы.&#10;Их имплементировать не надо." />
-    <option name="LAST_COMMIT_MESSAGE" value="Интерфейсы 2&#10;Функциональный интерфейс - это интерфейс у которого только один абстрактный метод.&#10;Функциональный интерфейс используется в лямбда выражениях.&#10;Пример функционального интерфейса интерфейс Runnable&#10;@FunctionalInterface&#10;public interface Runnable {&#10;    public abstract void run();&#10;}&#10;&#10;В интерфейсе,  помимо абстрактных, возможны статические и дефолтные методы.&#10;Их имплементировать не надо." />
+    <MESSAGE value="Внутренний (Inner) класс.&#10;Внутренний класс имеет доступ ко всем (не статическийм) полям и методам класса &quot;обёртки&quot;(Enclosing class).&#10;Внутренний класс не static.&#10;https://javatalks.ru/posts/240222&#10;Внутренние классы хороши, когда у вас внутренний класс неразрывно связан с внешним. Когда существование инстанса внутреннего класса, без конкретного инстанса внешнего - не имеет смысла.&#10;Не делайте внутренний класс там, где достаточно вложенного! Частая проблема у новичков - шлёпать внутренние классы только потому, что они забыли поставить &quot;static&quot;. Каждый инстанс внутреннего класса связан с внешним ссылкой, а значит пока существует хоть один инстанс внутреннего - будет существовать инстанс внешнего. Про проблемы сборки мусора вы наверное потом узнаете." />
+    <option name="LAST_COMMIT_MESSAGE" value="Внутренний (Inner) класс.&#10;Внутренний класс имеет доступ ко всем (не статическийм) полям и методам класса &quot;обёртки&quot;(Enclosing class).&#10;Внутренний класс не static.&#10;https://javatalks.ru/posts/240222&#10;Внутренние классы хороши, когда у вас внутренний класс неразрывно связан с внешним. Когда существование инстанса внутреннего класса, без конкретного инстанса внешнего - не имеет смысла.&#10;Не делайте внутренний класс там, где достаточно вложенного! Частая проблема у новичков - шлёпать внутренние классы только потому, что они забыли поставить &quot;static&quot;. Каждый инстанс внутреннего класса связан с внешним ссылкой, а значит пока существует хоть один инстанс внутреннего - будет существовать инстанс внешнего. Про проблемы сборки мусора вы наверное потом узнаете." />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Boolean.java">
@@ -693,13 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/CellPhone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -720,12 +719,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Display.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
             <element signature="e#167#168#0" expanded="true" />
             <element signature="e#226#227#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
     </entry>

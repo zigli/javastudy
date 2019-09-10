@@ -6,8 +6,6 @@ public class Main {
         CellPhone cellPhone = new CellPhone("Motorola", "XT554");
         cellPhone.turnOn();
         Display display = cellPhone.getDisplay();
-        Display.Pixel pixel = display.new Pixel(14300,100, Display.Color.RED);
-
-
+        Display.Pixel pixel = new Display.Pixel(140,100, Display.Color.RED);
     }
 }
