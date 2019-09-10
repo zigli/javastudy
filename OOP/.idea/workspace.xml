@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8696cfc-fe64-4fac-8c21-378408556183" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pricable.java" afterDir="false" />
+    <list default="true" id="f8696cfc-fe64-4fac-8c21-378408556183" name="Default Changelist" comment="Внутренний (Inner) класс.&#10;Внутренний класс имеет доступ ко всем (не статическийм) полям и методам класса &quot;обёртки&quot;(Enclosing class).">
+      <change afterPath="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Deliverable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Deliverable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Electronics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Electronics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/InterfaceRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/InterfaceRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Orderable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Orderable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pizza.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,119 +22,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/CellPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="17" />
+              <folding>
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/InterfaceRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pricable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/CellPhone.java">
+        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Display.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
               <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Deliverable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Size.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-              <folding>
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Electronics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-              <folding>
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Fridge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Orderable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -184,10 +106,13 @@
         <option value="$PROJECT_DIR$/src/cf/tilgiz/inheritance/Pricable.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Electronics.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/cf/tilgiz/interfaces/InterfaceRunner.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Orderable.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Deliverable.java" />
         <option value="$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pricable.java" />
+        <option value="$PROJECT_DIR$/src/cf/tilgiz/interfaces/InterfaceRunner.java" />
+        <option value="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/CellPhone.java" />
+        <option value="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Main.java" />
+        <option value="$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Display.java" />
       </list>
     </option>
   </component>
@@ -230,7 +155,7 @@
               <item name="OOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tilgiz" type="462c0819:PsiDirectoryNode" />
-              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="innerclasss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InterfaceRunner">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="ContructorsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cf.tilgiz.constructors.ContructorsMain" />
       <module name="OOP" />
@@ -299,6 +224,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cf.tilgiz.innerclasss.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cf.tilgiz.innerclasss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="cf.tilgiz.Main" />
       <module name="OOP" />
@@ -309,33 +247,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cf.tilgiz.Practice" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cf.tilgiz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Practice" />
       <item itemvalue="Application.ContructorsMain" />
       <item itemvalue="Application.InheritanceMain" />
       <item itemvalue="Application.InterfaceRunner" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.InterfaceRunner" />
         <item itemvalue="Application.InheritanceMain" />
         <item itemvalue="Application.ContructorsMain" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567777934169</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Интерфейсы 2&#10;Функциональный интерфейс - это интерфейс у которого только один абстрактный метод.&#10;Функциональный интерфейс используется в лямбда выражениях.&#10;Пример функционального интерфейса интерфейс Runnable&#10;@FunctionalInterface&#10;public interface Runnable {&#10;    public abstract void run();&#10;}&#10;&#10;В интерфейсе,  помимо абстрактных, возможны статические и дефолтные методы.&#10;Их имплементировать не надо.">
+      <created>1568015303299</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568015303299</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -425,7 +357,7 @@
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.50248754" side_tool="true" visible="true" weight="0.20309168" />
+      <window_info id="Structure" order="5" sideWeight="0.50248754" side_tool="true" weight="0.20309168" />
       <window_info id="Favorites" order="6" sideWeight="0.50082916" side_tool="true" weight="0.20095949" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -448,6 +380,35 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="8" side_tool="true" weight="0.32995737" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49751243" visible="true" weight="0.20309168" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.50248754" side_tool="true" visible="true" weight="0.20309168" />
+      <window_info id="Favorites" order="6" sideWeight="0.50082916" side_tool="true" weight="0.20095949" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="8" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11" />
@@ -459,7 +420,8 @@
     <MESSAGE value="Абстрактные классы.&#10;В абстрактных классах возможно определить статические методы&#10;public static void doSmth(){&#10;      System.out.println(&quot;Static method in Abstract class&quot;);&#10;}" />
     <MESSAGE value="Абстрактные классы." />
     <MESSAGE value="Интерфейсы 1&#10;Интерфейсы не могут иметь конструкторы.&#10;Все поля в интерфейсе final static, и должны быть инициализированы( так как отсутствуют конструкторы)&#10;&#10;Все методы в интерфейсе public abstract.&#10;&#10;Мы не может создать объект интерфейса  &#10;Deliverable deliverable = new Deliverable();&#10;Но возможно создать массив объектов из Интерфейса.&#10;Deliverable[] deliverable = new Deliverable[4];" />
-    <option name="LAST_COMMIT_MESSAGE" value="Интерфейсы 1&#10;Интерфейсы не могут иметь конструкторы.&#10;Все поля в интерфейсе final static, и должны быть инициализированы( так как отсутствуют конструкторы)&#10;&#10;Все методы в интерфейсе public abstract.&#10;&#10;Мы не может создать объект интерфейса  &#10;Deliverable deliverable = new Deliverable();&#10;Но возможно создать массив объектов из Интерфейса.&#10;Deliverable[] deliverable = new Deliverable[4];" />
+    <MESSAGE value="Интерфейсы 2&#10;Функциональный интерфейс - это интерфейс у которого только один абстрактный метод.&#10;Функциональный интерфейс используется в лямбда выражениях.&#10;Пример функционального интерфейса интерфейс Runnable&#10;@FunctionalInterface&#10;public interface Runnable {&#10;    public abstract void run();&#10;}&#10;&#10;В интерфейсе,  помимо абстрактных, возможны статические и дефолтные методы.&#10;Их имплементировать не надо." />
+    <option name="LAST_COMMIT_MESSAGE" value="Интерфейсы 2&#10;Функциональный интерфейс - это интерфейс у которого только один абстрактный метод.&#10;Функциональный интерфейс используется в лямбда выражениях.&#10;Пример функционального интерфейса интерфейс Runnable&#10;@FunctionalInterface&#10;public interface Runnable {&#10;    public abstract void run();&#10;}&#10;&#10;В интерфейсе,  помимо абстрактных, возможны статические и дефолтные методы.&#10;Их имплементировать не надо." />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Boolean.java">
@@ -625,10 +587,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Size.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="263">
+          <caret line="54" selection-start-line="54" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/InterfaceRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pricable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -639,6 +619,39 @@
           <folding>
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Deliverable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Size.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding>
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -680,54 +693,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Runnable.java">
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="54" selection-start-line="54" selection-end-line="68" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Deliverable.java">
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/CellPhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        <state relative-caret-position="450">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="17" />
           <folding>
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/Pricable.java">
+    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/innerclasss/Display.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="255">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
           <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cf/tilgiz/interfaces/InterfaceRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
