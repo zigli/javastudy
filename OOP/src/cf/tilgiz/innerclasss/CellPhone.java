@@ -5,6 +5,7 @@ public class CellPhone {
     private String make;
     private String model;
     private Display display;
+    private RadioModule gms;
 
     public CellPhone(String make, String model) {
         this.make = make;
@@ -13,6 +14,11 @@ public class CellPhone {
 
     public void turnOn() {
         initDisplay();
+        gms = new RadioModule();
+    }
+
+    public void call(String number){
+        gms.call(number);
     }
 
     public void initDisplay() {
